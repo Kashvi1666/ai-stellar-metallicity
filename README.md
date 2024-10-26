@@ -1,1 +1,1 @@
-# ai-stellar-metallicity
+published research paper on comparing the performance of different machine learning models, e.g., random forest, neural networks, gradient boosting machines, in predicting the metallicity of stars with spectroscopic data
